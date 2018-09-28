@@ -1,5 +1,5 @@
 # yahoo-api
-# yahoo api kullanarak javascript hava durumu sistemi kodladım
+# yahoo api ve javascript kullanarak durum sistemi kodladım
 # zevk amacli yaptım
 # hasanatilan.com
 # skype:skytime1234
